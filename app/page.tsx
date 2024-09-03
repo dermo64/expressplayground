@@ -15,7 +15,7 @@ export default function Page() {
         <div className="flex flex-col justify-center gap-6 rounded-lg bg-neutral-900 px-6 py-10 md:w-2/5 md:px-20">
           <div className={style.circle} />
           <p className={`${rubik.className} text-5xl text-white md:text-3xl md:leading-normal`}>
-            <strong>Welcome to TradeHub!</strong>
+            <strong>Welcome to TradeHub!!</strong>
           </p>
           <Link
             href="/login"
